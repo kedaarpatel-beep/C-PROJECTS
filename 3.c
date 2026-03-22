@@ -2,6 +2,8 @@
 
 int main() {
 
+//over here , we are adding the 2 integers together
+
     int ben ;
     int ben1 ;
     int result;

@@ -2,7 +2,7 @@
 
 int main() {
     
-
+// establishing the age and name
     int age = 99;
     char name[] = "beans";
 
